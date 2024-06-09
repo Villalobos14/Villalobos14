@@ -1,16 +1,22 @@
-## Hi there 👋
+## I'm Alejandro Villalobos, a software engineering student. 👋.
+<a href="https://www.linkedin.com/in/joshua-alejandro-villalobos-estrada-60194b224/"><img src="https://img.shields.io/static/v1?label=&message=LINKEDIN&color=004182&style=for-the-badge&logo=linkedin"></a>
 
-<!--
-**Villalobos14/Villalobos14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend and Mobile Developer attempt
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  I'm 21 years old.
+
+- I'm currently studying `React ` and `Javascript`.
+
+- I really like learning new things and always being up-to-date with technologies.
+
+- Currently studying at Universidad Politécnica de Chiapas
+
+<br>
+
+---
+### I have used these technologies and tools:
+
+  [![My Skills](https://skillicons.dev/icons?i=ts,react,tailwind,nextjs,vercel,vite,redux)](https://skillicons.dev)
+ 
