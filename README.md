@@ -20,12 +20,12 @@
 <div align="left">
     <h3> ⚒ Languages and Tools : </h3>
     <div>
-        
         <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
         <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
         <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
         <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
         <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
+        <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
     </div>
 </div>
 
