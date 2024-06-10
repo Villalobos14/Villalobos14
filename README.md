@@ -7,25 +7,18 @@
 
 ---
 
-###  About Me : 
-- 📌 I know use **FIGMA** 
+### About me
 
-- 📌 I worked with **React-Vite, NodeJS**
+-  I'm 21 years old.
 
-- 📌 Ask me about **HTML, CSS, JavaScript**
+- I'm currently studying `ReactJs` and `JavaScript`.
 
-- 📌 I´m currently learnig **ReactJs, Python**
+- Working as a UX/UI desingner in DaCodes
 
-<div align="left">
-    <h3> ⚒ Languages and Tools : </h3>
-    [![My Skills](https://skillicons.dev/icons?i=ts,react,tailwind,nextjs,vercel,vite,figma,javascript)](https://skillicons.dev)
-</div>
+<br>
 
 ---
+### I have used these technologies and tools:
 
-### My Stats 📊 : 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Villalobos14&theme=halloween&hide_border=true&border_radius=5.5&locale=es&border=EB545400)](https://git.io/streak-stats)
-
-![Alejandro´s GitHub stats](https://github-readme-stats.vercel.app/api?username=Villalobos14&show_icons=true&theme=radical)
-
+  [![My Skills](https://skillicons.dev/icons?i=ts,react,tailwind,nextjs,vercel,vite,figma,javascript)](https://skillicons.dev)
 
