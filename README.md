@@ -20,7 +20,7 @@
 <div align="left">
     <h3> ⚒ Languages and Tools : </h3>
     <div>
-        <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
+        ;
         <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
         <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
         <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
@@ -36,7 +36,4 @@
 
 ![Alejandro´s GitHub stats](https://github-readme-stats.vercel.app/api?username=villalobos14&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=villalobos14&layout=dark)](https://github.com/villalobos14/github-readme-stats)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
