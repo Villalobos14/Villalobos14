@@ -23,7 +23,7 @@
 
 ### 🔗 Let's Connect
 
-- 💼 [Portfolio Website](https://villaalobos.com) *(optional)*
+- 💼 [Portfolio Website](https://villaalobos.com) 
 - 🐦 [Instagram](https://www.instagram.com/villaalobos14)
 - 💬 [LinkedIn](https://www.linkedin.com/in/joshua-alejandro-villalobos-estrada-60194b224)
 
